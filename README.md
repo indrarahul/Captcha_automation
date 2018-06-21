@@ -12,5 +12,6 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 ### Tesseract</br>
 sudo apt-get install tesseract-ocr
 
-### Run on Python 3.x
+### Run
+*$ python3 ocr.py*
 
